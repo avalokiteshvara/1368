@@ -1,0 +1,5 @@
++ pada form pembelian, berikan field "referensi kode pembelian" untuk track
+  pembelian barang based on penjualan . multikode, "KODE-JUAL001,KODE-JUAL002 dst" #FIX
+
+! hanya user yang mengisikan data penjualan, pembelian,barang (masuk,keluar) in first place
+  yang bisa edit, kecuali ente adalah manager.
